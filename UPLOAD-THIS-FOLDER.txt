@@ -1,0 +1,27 @@
+FIXED YIZZY.BEATS WEBSITE
+
+IMPORTANT: Upload the CONTENTS of this folder into the ROOT of the GitHub repository used by your live website. Do not upload only index.html.
+
+Required structure after upload:
+index.html
+styles.css
+script.js
+assets/beats/blackout.jpg
+assets/beats/blackout.mp3
+assets/beats/fallon.jpg
+assets/beats/fallon.mp3
+assets/beats/perdu.jpg
+assets/beats/perdu.mp3
+assets/beats/broderick.jpg
+assets/beats/broderick.mp3
+assets/beats/blyck.jpg
+assets/beats/blyck.mp3
+
+Steps:
+1. Open the repository for https://marouani845-code.github.io/Yizzy.beats/
+2. Add file > Upload files.
+3. Drag in index.html, styles.css, script.js, and the whole assets folder from this extracted folder.
+4. Commit changes to the branch used by GitHub Pages.
+5. Wait for Pages to redeploy, then hard-refresh the site with Ctrl+F5.
+
+Audio is provided as MP3 for broad browser support. The HTML references assets/beats/*.mp3 and cover images at assets/beats/*.jpg.
